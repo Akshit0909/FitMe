@@ -1,0 +1,12 @@
+name: FitMe
+channels:
+  - defaults
+dependencies:
+  - pip=22
+  - python=3
+  - pip:
+    - scikit-learn
+    - pylint
+    - pandas
+    - streamlit
+    - seaborn
