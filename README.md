@@ -3,7 +3,7 @@
 <img src="https://coveralls.io/repos/github/ameyabhamare/FitMe/badge.svg?branch=main&kill_cache=1" />
 
 
-## Fitness Tracker: A Usage Trends Analysis
+## Fitness Tracker: A Usage Trends Analysis (Software Design)
 
 ### Goal
 The end product is a tool that allows the user to upload their smart watch data and presents them with relevant insights pertaining to weight, activity, heartrate and calorific needs.
